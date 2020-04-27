@@ -14,6 +14,7 @@
 #include "bitmap.h"
 #define BITMAP_H
 #endif
+#test
 
 BITMAP *loadBitmap(const char *file_path)
 {
