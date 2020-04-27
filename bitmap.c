@@ -15,6 +15,8 @@
 #define BITMAP_H
 #endif
 
+/* Loading Bitmap */
+
 BITMAP *loadBitmap(const char *file_path)
 {
     FILE *fp = NULL;
